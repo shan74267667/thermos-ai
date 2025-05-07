@@ -17,7 +17,7 @@ THERMOS AI is an AI-powered thermal optimization and anomaly detection system fo
 - Python (machine learning and simulation scripts)
 - Bash 
 - LovableAI (Used to create the MVP dashboard) 
-  🔗https://thermos-ai-dashboard.lovable.app/
+- 🔗https://thermos-ai-dashboard.lovable.app/
   
 
 ---
