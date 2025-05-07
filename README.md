@@ -10,7 +10,7 @@ THERMOS AI is an AI-powered thermal optimization and anomaly detection system fo
 - ML-based **anomaly detection** from temperature and energy usage data
 - Visual **metrics dashboard** (temperature, energy, CPU usage)
 - Simulated **manual controls** for airflow adjustments
-- Interactive **Figma UI prototype** via Lovable
+- Interactive **UI prototype** via Lovable
 
 ## 🧠 Tech Stack
 
