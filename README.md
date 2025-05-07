@@ -22,10 +22,10 @@ THERMOS AI is an AI-powered thermal optimization and anomaly detection system fo
 
 ### ✅ Requirements 
 
-tensorflow
-numpy
-matplotlib
-pandas
-seaborn
-scikit-learn
+- tensorflow
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- scikit-learn
 
